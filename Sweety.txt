@@ -1,0 +1,4 @@
+welcome to cse second year.........cse-A welcome to python programming....!cse-A welcome to python programming....!Pace college....
+sweety:34,45,56
+pandu:54,76,98
+vyshu:98,76,87
